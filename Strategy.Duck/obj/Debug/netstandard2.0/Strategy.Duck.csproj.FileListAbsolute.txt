@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\bin\Debug\netstandard2.0\Strategy.Duck.deps.json
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\bin\Debug\netstandard2.0\Strategy.Duck.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\bin\Debug\netstandard2.0\Strategy.Duck.pdb
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.csprojAssemblyReference.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.AssemblyInfo.cs
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Strategy.Duck\obj\Debug\netstandard2.0\Strategy.Duck.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.csprojAssemblyReference.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.AssemblyInfo.cs
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\bin\Debug\netcoreapp3.1\Decorator.Starbuzz.deps.json
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\bin\Debug\netcoreapp3.1\Decorator.Starbuzz.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\bin\Debug\netcoreapp3.1\Decorator.Starbuzz.pdb
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Decorator.Starbuzz\obj\Debug\netcoreapp3.1\Decorator.Starbuzz.pdb

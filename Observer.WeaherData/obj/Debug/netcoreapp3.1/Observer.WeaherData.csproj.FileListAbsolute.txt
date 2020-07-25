@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\bin\Debug\netcoreapp3.1\Observer.WeaherData.deps.json
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\bin\Debug\netcoreapp3.1\Observer.WeaherData.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\bin\Debug\netcoreapp3.1\Observer.WeaherData.pdb
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.csprojAssemblyReference.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.AssemblyInfo.cs
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.dll
+C:\Users\HP\Documents\HeadFirst\patronescsharp\Observer.WeaherData\obj\Debug\netcoreapp3.1\Observer.WeaherData.pdb
